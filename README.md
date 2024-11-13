@@ -13,7 +13,7 @@ This project is a Node.js-based chatbot designed to assist users with real estat
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sameh-Sany/chatbot.git
+   git clone https://github.com/Sameh-Sany/chatbot_assessment.git
    ```
 2. Navigate to the project directory:
    ```sh
