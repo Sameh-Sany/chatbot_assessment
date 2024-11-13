@@ -23,6 +23,7 @@ This project is a Node.js-based chatbot designed to assist users with real estat
    ```sh
    npm install
    ```
+4. change .env.example with .env and add your own credentials
 
 ## Usage
 
